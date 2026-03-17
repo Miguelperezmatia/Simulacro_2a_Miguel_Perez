@@ -86,3 +86,36 @@ print(division)
 ---
 
 <br>
+
+## 5. Tabla de resultados
+
+En conclusión, asignando a la variable `a` el valor 4 y a la varibale `b` el valor 3, obtenemos el siguiente resultado:
+
+<table>
+    <thead>
+        <tr>
+            <th>SUMA</th>
+            <th>RESTA</th>
+            <th>MULTIPLICACIÓN</th>
+            <th>DIVISIÓN</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>7</td>
+            <td>1</td>
+            <td>12</td>
+            <td>1,33 (periodo)</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+Como repaso, prueba a cambiar los valores de las variables `a` y `b` y verás que obtienes distintos resultados.
+
+<br>
+
+---
+
+<br>
