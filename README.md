@@ -119,3 +119,19 @@ Como repaso, prueba a cambiar los valores de las variables `a` y `b` y verás qu
 ---
 
 <br>
+
+## 6. Navegación rápida
+
+[Volver al inicio de la documentación](#1-documentación-operaciones-aritméticas-básicas)
+
+[Volver a la creación de las variables](#2-creación-de-variables)
+
+[Volver a la realización del cálculo de las operaciones aritméticas](#3-cálcula-de-operaciones-aritméticas)
+
+[Volver a la muestra por pantalla de las operaciones aritméticas](#4-muestra-por-pantalla-de-las-operaciones-aritméticas)
+
+[Volver a la tabla de resultados](#5-tabla-de-resultados)
+
+<br>
+
+- [x] Documentación terminada
