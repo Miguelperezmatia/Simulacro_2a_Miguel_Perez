@@ -94,17 +94,40 @@ En conclusión, asignando a la variable `a` el **valor 4** y a la varibale `b` e
 <table>
     <thead>
         <tr>
-            <th>SUMA</th>
-            <th>RESTA</th>
-            <th>MULTIPLICACIÓN</th>
-            <th>DIVISIÓN</th>
+            <th>VARIABLE a</th>
+            <th>VARIABLE b</th>
+            <th>OPERACIÓN</th>
+            <th>CÁLCULO</th>
+            <th>RESULTADO</th>
         </tr>
     </thead>
     <tbody>
         <tr>
+            <td>4</td>
+            <td>3</td>
+            <td>SUMA</td>
+            <td>4 + 3</td>
             <td>7</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>3</td>
+            <td>RESTA</td>
+            <td>4 - 3</td>
             <td>1</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>3</td>
+            <td>MULTIPLICACIÓN</td>
+            <td>4 * 3</td>
             <td>12</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>3</td>
+            <td>DIVISIÓN</td>
+            <td>4 / 3</td>
             <td>1,33 (periodo)</td>
         </tr>
     </tbody>
