@@ -1,6 +1,6 @@
 # 1. Documentación: Operaciones aritméticas básicas
 
-En este ejercicio hemos realizado el cálculo de operaciones básicas con dos variables y hemos mostrado por pantalla los resultados.
+En este ejercicio hemos realizado el **cálculo de operaciones básicas** con dos variables y hemos mostrado por pantalla los resultados.
 
 <br>
 
@@ -12,11 +12,11 @@ En este ejercicio hemos realizado el cálculo de operaciones básicas con dos va
 
 Primero debemos declarar dos variables de tipo entero y asignarles el valor que queramos.
 
-1. Primera variable:
+1. **Primera variable**:
 
     - `a`: representa un valor entero
 
-2. Segunda variable
+2. **Segunda variable**:
 
     - `b`: identifica otro valor entero
 ```python
@@ -30,20 +30,20 @@ b = 3
 
 <br>
 
-## 3. Cálcula de operaciones aritméticas
+## 3. Cálculo de operaciones aritméticas
 
-A continuación, realizamos las operaciones básicas pedidas: suma, resta, multiplicación y división.
+A continuación, realizamos las operaciones básicas pedidas: **suma**, **resta**, **multiplicación** y **división**.
 
 Para ello dividimos el proceso en dos pasos:
 
-1. Creación de una variable por cada operación a realizar.
+1. **Creación de una variable por cada operación a realizar**.
 
     1. `suma`
     2. `resta`
     3. `multiplicaion`
     4. `division`
 
-2. Asignar a dicha variable el cálculo de la operación.
+2. **Asignar a dicha variable el cálculo de la operación**.
 
     1. `a + b`
     2. `a - b`
@@ -67,13 +67,13 @@ division = a / b
 
 Por útimo, debemos mostrar los resultados de las siguientes variables por pantalla:
 
-- Suma: `suma`
+- **Suma**: `suma`
 
-- Resta: `resta`
+- **Resta**: `resta`
 
-- Multiplicación: `multiplicacion`
+- **Multiplicación**: `multiplicacion`
 
-- División: `division`
+- **División**: `division`
 ```python
 print(suma)
 print(resta)
@@ -89,7 +89,7 @@ print(division)
 
 ## 5. Tabla de resultados
 
-En conclusión, asignando a la variable `a` el valor 4 y a la varibale `b` el valor 3, obtenemos el siguiente resultado:
+En conclusión, asignando a la variable `a` el **valor 4** y a la varibale `b` el **valor 3**, obtenemos el siguiente resultado:
 
 <table>
     <thead>
@@ -126,7 +126,7 @@ Como repaso, prueba a cambiar los valores de las variables `a` y `b` y verás qu
 
 [Volver a la creación de las variables](#2-creación-de-variables)
 
-[Volver a la realización del cálculo de las operaciones aritméticas](#3-cálcula-de-operaciones-aritméticas)
+[Volver a la realización del cálculo de las operaciones aritméticas](#3-cálculo-de-operaciones-aritméticas)
 
 [Volver a la muestra por pantalla de las operaciones aritméticas](#4-muestra-por-pantalla-de-las-operaciones-aritméticas)
 
