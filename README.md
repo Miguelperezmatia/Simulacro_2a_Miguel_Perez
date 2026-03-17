@@ -63,3 +63,26 @@ division = a / b
 <br>
 
 
+## 4. Muestra por pantalla de las operaciones aritméticas
+
+Por útimo, debemos mostrar los resultados de las siguientes variables por pantalla:
+
+- Suma: `suma`
+
+- Resta: `resta`
+
+- Multiplicación: `multiplicacion`
+
+- División: `division`
+```python
+print(suma)
+print(resta)
+print(multiplicacion)
+print(division)
+```
+
+<br>
+
+---
+
+<br>
