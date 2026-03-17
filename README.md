@@ -23,3 +23,43 @@ Primero debemos declarar dos variables de tipo entero y asignarles el valor que 
 a = 4
 b = 3
 ```
+
+<br>
+
+---
+
+<br>
+
+## 3. Cálcula de operaciones aritméticas
+
+A continuación, realizamos las operaciones básicas pedidas: suma, resta, multiplicación y división.
+
+Para ello dividimos el proceso en dos pasos:
+
+1. Creación de una variable por cada operación a realizar.
+
+    1. `suma`
+    2. `resta`
+    3. `multiplicaion`
+    4. `division`
+
+2. Asignar a dicha variable el cálculo de la operación.
+
+    1. `a + b`
+    2. `a - b`
+    3. `a * b`
+    4. `a / b`
+```python
+suma = a + b
+resta = a - b
+multiplicacion = a * b
+division = a / b
+```
+
+<br>
+
+---
+
+<br>
+
+
